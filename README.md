@@ -1,3 +1,8 @@
+#자율주행을 위한 컴퓨터 시스템 최적화 경진대회
+
+### 최항기 박중석
+#### DCSLAB 연구실
+
 # CPSim Project
 CPSim (Cyber-Physical System Simulator) is a development tool which supports whole development process for CPSs from design to implementation.
 This tool provides two essential features for development process of CPSs:
