@@ -1,0 +1,1586 @@
+ang_cha: 0.000030 
+ste:       -nan, cha:   1.000000, dis:   0.000000 -- Changes invalid!
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:       -nan, cha:   0.000000, dis:   0.000000 -- On straight! close, in side
+ang:   0.000000, dis:       -nan, spd:   0.000000 
+
+ang_cha: 0.000030 
+ste:  -0.166665, cha:   6.283179, dis:   3.333334 -- Changes invalid!
+ang:   0.000001, dis:   0.166667, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:  -0.099999, cha:   0.000000, dis:   3.333334 -- On straight! faraway
+ang:   0.000001, dis:   0.166667, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:  -0.099999, cha:   0.000000, dis:   3.333334 -- On straight! faraway
+ang:   0.000001, dis:   0.166667, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:  -0.099999, cha:   0.000000, dis:   3.333334 -- On straight! faraway
+ang:   0.000001, dis:   0.166667, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:  -0.099999, cha:   0.000000, dis:   3.333334 -- On straight! faraway
+ang:   0.000001, dis:   0.166667, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:  -0.099931, cha:   0.000000, dis:   3.333168 -- On straight! faraway
+ang:   0.000071, dis:   0.166658, spd:   0.000000 
+
+ang_cha: 0.000000 
+ste:  -0.097939, cha:   0.000000, dis:   3.330471 -- On straight! faraway
+ang:   0.002195, dis:   0.166524, spd:   0.221171 
+
+ang_cha: 0.000000 
+ste:  -0.088280, cha:   0.000000, dis:   3.316449 -- On straight! faraway
+ang:   0.012459, dis:   0.165822, spd:   9.839583 
+
+ang_cha: 0.000000 
+ste:  -0.072495, cha:   0.000000, dis:   3.277333 -- On straight! faraway
+ang:   0.028695, dis:   0.163867, spd:  19.295813 
+
+ang_cha: 0.000000 
+ste:  -0.049186, cha:   0.000000, dis:   3.193798 -- On straight! faraway
+ang:   0.051809, dis:   0.159690, spd:  29.296959 
+
+ang_cha: 0.000000 
+ste:  -0.020581, cha:   0.000000, dis:   3.053274 -- On straight! faraway
+ang:   0.078908, dis:   0.152664, spd:  40.045422 
+
+ang_cha: 0.000000 
+ste:   0.014503, cha:   0.000000, dis:   2.802857 -- On straight! faraway
+ang:   0.109543, dis:   0.140143, spd:  50.454903 
+
+ang_cha: 0.000000 
+ste:   0.050177, cha:   0.000000, dis:   2.416595 -- On straight! faraway
+ang:   0.136305, dis:   0.120830, spd:  63.198174 
+
+ang_cha: 0.000000 
+ste:   0.071189, cha:   0.000000, dis:   1.869597 -- On straight! faraway
+ang:   0.141419, dis:   0.093480, spd:  73.756798 
+
+ang_cha: 0.000000 
+ste:   0.062161, cha:   0.000000, dis:   1.216277 -- On straight! faraway
+ang:   0.109611, dis:   0.060814, spd:  86.996094 
+
+ang_cha: 0.000030 
+ste:   0.039693, cha:  -6.283179, dis:   0.621439 -- Changes invalid!
+ang:   0.070765, dis:   0.031072, spd:  97.312607 
+
+ang_cha: 0.000000 
+ste:   0.015681, cha:   0.000000, dis:   0.282522 -- On straight! close, in side
+ang:   0.035553, dis:   0.014126, spd: 103.808334 
+
+ang_cha: 0.000000 
+ste:   0.003104, cha:   0.000000, dis:   0.131132 -- On straight! close, in side
+ang:   0.009545, dis:   0.006557, spd: 104.422562 
+
+ang_cha: 0.000000 
+ste:  -0.002174, cha:   0.000000, dis:   0.097841 -- On straight! close, out side
+ang:  -0.000362, dis:   0.004892, spd: 100.061111 
+
+ang_cha: 0.000000 
+ste:  -0.003756, cha:   0.000000, dis:   0.104870 -- On straight! close, out side
+ang:  -0.002764, dis:   0.005243, spd: 102.009811 
+
+ang_cha: 0.000000 
+ste:  -0.003327, cha:   0.000000, dis:   0.118517 -- On straight! close, out side
+ang:  -0.001595, dis:   0.005926, spd: 104.323524 
+
+ang_cha: 0.000000 
+ste:  -0.002182, cha:   0.000000, dis:   0.124647 -- On straight! close, in side
+ang:   0.000518, dis:   0.006232, spd: 106.293236 
+
+ang_cha: 0.000000 
+ste:  -0.000873, cha:   0.000000, dis:   0.118696 -- On straight! close, in side
+ang:   0.002501, dis:   0.005935, spd: 107.684189 
+
+ang_cha: 0.000000 
+ste:   0.000205, cha:   0.000000, dis:   0.101963 -- On straight! close, in side
+ang:   0.003740, dis:   0.005098, spd: 109.210007 
+
+ang_cha: 0.000000 
+ste:   0.000975, cha:   0.000000, dis:   0.078468 -- On straight! close, in side
+ang:   0.004240, dis:   0.003923, spd: 111.306740 
+
+ang_cha: 0.000000 
+ste:   0.001533, cha:   0.000000, dis:   0.049438 -- On straight! close, in side
+ang:   0.004203, dis:   0.002472, spd: 112.928452 
+
+ang_cha: 0.000000 
+ste:   0.003302, cha:   0.000000, dis:   0.021444 -- On straight! close, in side
+ang:   0.006218, dis:   0.001072, spd: 113.948692 
+
+ang_cha: 0.000000 
+ste:   0.004966, cha:   0.000000, dis:  -0.015873 -- On straight! close, out side
+ang:   0.007748, dis:  -0.000794, spd: 111.211456 
+
+ang_cha: 0.000000 
+ste:   0.004748, cha:   0.000000, dis:  -0.057369 -- On straight! close, out side
+ang:   0.006002, dis:  -0.002868, spd: 108.680626 
+
+ang_cha: 0.000000 
+ste:   0.003688, cha:   0.000000, dis:  -0.088133 -- On straight! close, out side
+ang:   0.003210, dis:  -0.004407, spd: 110.381561 
+
+ang_cha: 0.000000 
+ste:   0.002120, cha:   0.000000, dis:  -0.102201 -- On straight! close, out side
+ang:   0.000127, dis:  -0.005110, spd: 112.435753 
+
+ang_cha: 0.005901 
+ste:   0.004474, cha:   0.005901, dis:  -0.100113 -- On straight! close, out side
+ang:   0.004119, dis:  -0.005006, spd: 114.218750 
+
+ang_cha: 0.062220 
+ste:   0.189502, cha:   0.062220, dis:  -0.237725 -- In left corner! to out side
+ang:   0.067461, dis:  -0.011886, spd: 115.000847 
+
+ang_cha: 0.060072 
+ste:   0.273827, cha:   0.060072, dis:  -0.746573 -- In left corner! to out side
+ang:   0.124310, dis:  -0.037329, spd: 111.893387 
+
+ang_cha: 0.057989 
+ste:   0.232564, cha:   0.057989, dis:  -1.413608 -- In left corner! to out side
+ang:   0.058981, dis:  -0.070680, spd: 108.564583 
+
+ang_cha: 0.056208 
+ste:  -0.010515, cha:   0.056208, dis:  -1.717929 -- In left corner! to in side
+ang:  -0.059413, dis:  -0.085896, spd: 105.738586 
+
+ang_cha: 0.054222 
+ste:  -0.099113, cha:   0.054222, dis:  -1.395497 -- In left corner! to in side
+ang:  -0.174797, dis:  -0.069775, spd: 101.736679 
+
+ang_cha: 0.052404 
+ste:  -0.100884, cha:   0.052404, dis:  -0.612917 -- In left corner! to in side
+ang:  -0.160728, dis:  -0.030646, spd:  98.551071 
+
+ang_cha: 0.051782 
+ste:  -0.010780, cha:   0.051782, dis:   0.011593 -- In left corner! to in side 222
+ang:  -0.051952, dis:   0.000580, spd:  95.814461 
+
+ang_cha: 0.051045 
+ste:   0.103521, cha:   0.051045, dis:   0.064620 -- In left corner! to in side 222
+ang:   0.064575, dis:   0.003231, spd:  93.835144 
+
+ang_cha: 0.048812 
+ste:   0.228839, cha:   0.048812, dis:  -0.371886 -- In left corner! to out side
+ang:   0.131841, dis:  -0.018594, spd:  90.863083 
+
+ang_cha: 0.051361 
+ste:   0.250697, cha:   0.051361, dis:  -0.985785 -- In left corner! to out side
+ang:   0.120279, dis:  -0.049289, spd:  87.459427 
+
+ang_cha: 0.044154 
+ste:   0.170714, cha:   0.044154, dis:  -1.432017 -- In left corner! to out side
+ang:   0.035748, dis:  -0.071601, spd:  83.438126 
+
+ang_cha: 0.042355 
+ste:   0.035251, cha:   0.042355, dis:  -1.493689 -- In left corner! to in side
+ang:  -0.063578, dis:  -0.074684, spd:  79.911201 
+
+ang_cha: 0.040596 
+ste:  -0.029480, cha:   0.040596, dis:  -1.181352 -- In left corner! to in side
+ang:  -0.118719, dis:  -0.059068, spd:  76.581062 
+
+ang_cha: 0.040045 
+ste:  -0.018031, cha:   0.040045, dis:  -0.709010 -- In left corner! to in side
+ang:  -0.100689, dis:  -0.035451, spd:  73.677650 
+
+ang_cha: 0.040723 
+ste:   0.029045, cha:   0.040723, dis:  -0.365290 -- In left corner! to in side
+ang:  -0.048291, dis:  -0.018264, spd:  72.353737 
+
+ang_cha: 0.042818 
+ste:   0.091754, cha:   0.042818, dis:  -0.223130 -- In left corner! to out side
+ang:   0.002157, dis:  -0.011157, spd:  75.636063 
+
+ang_cha: 0.042391 
+ste:   0.127147, cha:   0.042391, dis:  -0.260340 -- In left corner! to out side
+ang:   0.031289, dis:  -0.013017, spd:  77.686806 
+
+ang_cha: 0.040775 
+ste:   0.118716, cha:   0.040775, dis:  -0.364151 -- In left corner! to out side
+ang:   0.023467, dis:  -0.018208, spd:  75.062592 
+
+ang_cha: 0.039401 
+ste:   0.090686, cha:   0.039401, dis:  -0.407538 -- In left corner! to out side
+ang:   0.000625, dis:  -0.020377, spd:  72.042244 
+
+ang_cha: 0.040476 
+ste:   0.067612, cha:   0.040476, dis:  -0.373692 -- In left corner! to in side
+ang:  -0.007054, dis:  -0.018685, spd:  71.299072 
+
+ang_cha: 0.042309 
+ste:   0.075158, cha:   0.042309, dis:  -0.323967 -- In left corner! to in side
+ang:  -0.005500, dis:  -0.016198, spd:  75.263306 
+
+ang_cha: 0.041632 
+ste:   0.077495, cha:   0.041632, dis:  -0.290983 -- In left corner! to in side
+ang:  -0.002760, dis:  -0.014549, spd:  76.621910 
+
+ang_cha: 0.040228 
+ste:   0.073190, cha:   0.040228, dis:  -0.265287 -- In left corner! to in side
+ang:  -0.001206, dis:  -0.013264, spd:  73.492249 
+
+ang_cha: 0.041255 
+ste:   0.093286, cha:   0.041255, dis:  -0.249776 -- In left corner! to out side
+ang:   0.007447, dis:  -0.012489, spd:  72.645454 
+
+ang_cha: 0.043010 
+ste:   0.111077, cha:   0.043010, dis:  -0.274491 -- In left corner! to out side
+ang:   0.016021, dis:  -0.013725, spd:  76.517563 
+
+ang_cha: 0.042227 
+ste:   0.101605, cha:   0.042227, dis:  -0.314705 -- In left corner! to out side
+ang:   0.005558, dis:  -0.015735, spd:  77.762520 
+
+ang_cha: 0.040667 
+ste:   0.065360, cha:   0.040667, dis:  -0.298831 -- In left corner! to in side
+ang:  -0.011559, dis:  -0.014942, spd:  74.775841 
+
+ang_cha: 0.041387 
+ste:   0.062800, cha:   0.041387, dis:  -0.226414 -- In left corner! to in side
+ang:  -0.012803, dis:  -0.011321, spd:  72.916092 
+
+ang_cha: 0.043159 
+ste:   0.080450, cha:   0.043159, dis:  -0.169568 -- In left corner! to in side
+ang:  -0.000581, dis:  -0.008478, spd:  76.390793 
+
+ang_cha: 0.042386 
+ste:   0.093225, cha:   0.042386, dis:  -0.162515 -- In left corner! to out side
+ang:   0.005099, dis:  -0.008126, spd:  77.961601 
+
+ang_cha: 0.040808 
+ste:   0.085409, cha:   0.040808, dis:  -0.166400 -- In left corner! to out side
+ang:   0.003131, dis:  -0.008320, spd:  74.939316 
+
+ang_cha: 0.041482 
+ste:   0.086361, cha:   0.041482, dis:  -0.159969 -- In left corner! to out side
+ang:   0.004934, dis:  -0.007998, spd:  73.036156 
+
+ang_cha: 0.043195 
+ste:   0.096841, cha:   0.043195, dis:  -0.166736 -- In left corner! to out side
+ang:   0.008205, dis:  -0.008337, spd:  76.470139 
+
+ang_cha: 0.042384 
+ste:   0.089999, cha:   0.042384, dis:  -0.180676 -- In left corner! to out side
+ang:   0.001242, dis:  -0.009034, spd:  77.983231 
+
+ang_cha: 0.040864 
+ste:   0.067312, cha:   0.040864, dis:  -0.159126 -- In left corner! to in side
+ang:  -0.007985, dis:  -0.007956, spd:  74.928787 
+
+ang_cha: 0.041816 
+ste:   0.070518, cha:   0.041816, dis:  -0.110705 -- In left corner! to in side
+ang:  -0.004542, dis:  -0.005535, spd:  73.639580 
+
+ang_cha: 0.043608 
+ste:   0.093440, cha:   0.043608, dis:  -0.091462 -- In left corner! to out side
+ang:   0.007668, dis:  -0.004573, spd:  77.026344 
+
+ang_cha: 0.043033 
+ste:   0.097729, cha:   0.043033, dis:  -0.117929 -- In left corner! to out side
+ang:   0.009230, dis:  -0.005896, spd:  79.143768 
+
+ang_cha: 0.041338 
+ste:   0.076417, cha:   0.041338, dis:  -0.134417 -- In left corner! to in side
+ang:  -0.000401, dis:  -0.006721, spd:  76.006111 
+
+ang_cha: 0.039814 
+ste:   0.060631, cha:   0.039814, dis:  -0.106452 -- In left corner! to in side
+ang:  -0.010503, dis:  -0.005323, spd:  73.069038 
+
+ang_cha: 0.040561 
+ste:   0.067746, cha:   0.040561, dis:  -0.058318 -- In left corner! to in side
+ang:  -0.002056, dis:  -0.002916, spd:  71.265648 
+
+ang_cha: 0.042471 
+ste:   0.093308, cha:   0.042471, dis:  -0.055200 -- In left corner! to out side
+ang:   0.013318, dis:  -0.002760, spd:  74.784790 
+
+ang_cha: 0.044189 
+ste:   0.116960, cha:   0.044189, dis:  -0.118752 -- In left corner! to out side
+ang:   0.025669, dis:  -0.005938, spd:  78.121201 
+
+ang_cha: 0.043544 
+ste:   0.077677, cha:   0.043544, dis:  -0.210833 -- In left corner! to out side
+ang:   0.014734, dis:  -0.010542, spd:  80.174500 
+
+ang_cha: 0.041802 
+ste:   0.072853, cha:   0.041802, dis:  -0.238164 -- In left corner! to in side
+ang:  -0.007128, dis:  -0.011908, spd:  76.958130 
+
+ang_cha: 0.040257 
+ste:   0.065228, cha:   0.040257, dis:  -0.200590 -- In left corner! to in side
+ang:  -0.008788, dis:  -0.010030, spd:  73.953094 
+
+ang_cha: 0.040981 
+ste:   0.081228, cha:   0.040981, dis:  -0.165429 -- In left corner! to out side
+ang:   0.001607, dis:  -0.008271, spd:  72.111069 
+
+ang_cha: 0.042814 
+ste:   0.103183, cha:   0.042814, dis:  -0.178669 -- In left corner! to out side
+ang:   0.014807, dis:  -0.008933, spd:  75.603638 
+
+ang_cha: 0.042291 
+ste:   0.102828, cha:   0.042291, dis:  -0.230287 -- In left corner! to out side
+ang:   0.010719, dis:  -0.011514, spd:  77.832016 
+
+ang_cha: 0.040709 
+ste:   0.073476, cha:   0.040709, dis:  -0.248519 -- In left corner! to in side
+ang:  -0.002774, dis:  -0.012426, spd:  74.814598 
+
+ang_cha: 0.041403 
+ste:   0.071314, cha:   0.041403, dis:  -0.219330 -- In left corner! to in side
+ang:  -0.003980, dis:  -0.010966, spd:  72.930733 
+
+ang_cha: 0.043234 
+ste:   0.096322, cha:   0.043234, dis:  -0.203212 -- In left corner! to out side
+ang:   0.005912, dis:  -0.010161, spd:  76.398933 
+
+ang_cha: -0.030939 
+ste:  -0.091874, cha:  -0.030939, dis:  -0.145310 -- In right corner! to in side 222
+ang:  -0.067286, dis:  -0.007266, spd:  78.606316 
+
+ang_cha: -0.040064 
+ste:  -0.262861, cha:  -0.040064, dis:   0.295647 -- In right corner! to out side
+ang:  -0.158637, dis:   0.014782, spd:  75.583809 
+
+ang_cha: -0.038573 
+ste:  -0.299170, cha:  -0.038573, dis:   0.930897 -- In right corner! to out side
+ang:  -0.164633, dis:   0.046545, spd:  72.816200 
+
+ang_cha: -0.039180 
+ste:  -0.274077, cha:  -0.039180, dis:   1.482777 -- In right corner! to out side
+ang:  -0.114717, dis:   0.074139, spd:  71.109940 
+
+ang_cha: -0.040991 
+ste:  -0.218525, cha:  -0.040991, dis:   1.804683 -- In right corner! to out side
+ang:  -0.042388, dis:   0.090234, spd:  74.427567 
+
+ang_cha: -0.042649 
+ste:  -0.080637, cha:  -0.042649, dis:   1.844824 -- In right corner! to in side
+ang:   0.024906, dis:   0.092241, spd:  77.504539 
+
+ang_cha: -0.042247 
+ste:   0.008713, cha:  -0.042247, dis:   1.601319 -- In right corner! to in side
+ang:   0.106147, dis:   0.080066, spd:  79.953125 
+
+ang_cha: -0.045018 
+ste:   0.024177, cha:  -0.045018, dis:   1.133204 -- In right corner! to in side
+ang:   0.120638, dis:   0.056660, spd:  76.724960 
+
+ang_cha: -0.039291 
+ste:  -0.000171, cha:  -0.039291, dis:   0.695627 -- In right corner! to in side
+ang:   0.080619, dis:   0.034781, spd:  73.610138 
+
+ang_cha: -0.040361 
+ste:  -0.047076, cha:  -0.040361, dis:   0.427197 -- In right corner! to in side
+ang:   0.029724, dis:   0.021360, spd:  72.021255 
+
+ang_cha: -0.042326 
+ste:  -0.108551, cha:  -0.042326, dis:   0.344528 -- In right corner! to out side
+ang:  -0.012167, dis:   0.017226, spd:  75.631210 
+
+ang_cha: -0.041812 
+ste:  -0.127763, cha:  -0.041812, dis:   0.399991 -- In right corner! to out side
+ang:  -0.025741, dis:   0.020000, spd:  77.796120 
+
+ang_cha: -0.040284 
+ste:  -0.109199, cha:  -0.040284, dis:   0.466301 -- In right corner! to out side
+ang:  -0.010653, dis:   0.023315, spd:  74.895180 
+
+ang_cha: -0.040977 
+ste:  -0.078188, cha:  -0.040977, dis:   0.463273 -- In right corner! to in side
+ang:   0.000062, dis:   0.023164, spd:  73.078232 
+
+ang_cha: -0.042772 
+ste:  -0.077796, cha:  -0.042772, dis:   0.421713 -- In right corner! to in side
+ang:   0.006358, dis:   0.021086, spd:  76.552795 
+
+ang_cha: -0.042253 
+ste:  -0.073616, cha:  -0.042253, dis:   0.366924 -- In right corner! to in side
+ang:   0.010481, dis:   0.018346, spd:  78.626228 
+
+ang_cha: -0.040710 
+ste:  -0.065468, cha:  -0.040710, dis:   0.301343 -- In right corner! to in side
+ang:   0.012295, dis:   0.015067, spd:  75.678993 
+
+ang_cha: -0.039279 
+ste:  -0.060515, cha:  -0.039279, dis:   0.231086 -- In right corner! to in side
+ang:   0.011465, dis:   0.011554, spd:  72.919556 
+
+ang_cha: -0.039752 
+ste:  -0.077235, cha:  -0.039752, dis:   0.176929 -- In right corner! to out side
+ang:  -0.000594, dis:   0.008846, spd:  70.630692 
+
+ang_cha: -0.046428 
+ste:  -0.110089, cha:  -0.046428, dis:   0.176338 -- In right corner! to out side
+ang:  -0.016717, dis:   0.008817, spd:  74.180878 
+
+ang_cha: -0.043590 
+ste:  -0.119383, cha:  -0.043590, dis:   0.231441 -- In right corner! to out side
+ang:  -0.023417, dis:   0.011572, spd:  77.944031 
+
+ang_cha: -0.042937 
+ste:  -0.102324, cha:  -0.042937, dis:   0.288280 -- In right corner! to out side
+ang:  -0.004375, dis:   0.014414, spd:  79.875031 
+
+ang_cha: -0.041276 
+ste:  -0.060355, cha:  -0.041276, dis:   0.260242 -- In right corner! to in side
+ang:   0.018540, dis:   0.013012, spd:  76.745346 
+
+ang_cha: -0.039762 
+ste:  -0.041433, cha:  -0.039762, dis:   0.149717 -- In right corner! to in side
+ang:   0.031198, dis:   0.007486, spd:  73.835632 
+
+ang_cha: -0.040191 
+ste:  -0.051781, cha:  -0.040191, dis:   0.019827 -- In right corner! to in side
+ang:   0.017686, dis:   0.000991, spd:  71.394722 
+
+ang_cha: -0.042127 
+ste:  -0.042247, cha:  -0.042127, dis:  -0.047009 -- In right corner! to in side 222
+ang:  -0.004701, dis:  -0.002350, spd:  74.871094 
+
+ang_cha: -0.043833 
+ste:  -0.066426, cha:  -0.043833, dis:  -0.009063 -- In right corner! to in side 222
+ang:  -0.023743, dis:  -0.000453, spd:  78.561401 
+
+ang_cha: -0.043139 
+ste:  -0.100747, cha:  -0.043139, dis:   0.113091 -- In right corner! to out side
+ang:  -0.041048, dis:   0.005655, spd:  80.117416 
+
+ang_cha: -0.041379 
+ste:  -0.142670, cha:  -0.041379, dis:   0.284712 -- In right corner! to out side
+ang:  -0.046831, dis:   0.014236, spd:  76.630768 
+
+ang_cha: -0.039758 
+ste:  -0.134045, cha:  -0.039758, dis:   0.443047 -- In right corner! to out side
+ang:  -0.036004, dis:   0.022152, spd:  74.023727 
+
+ang_cha: -0.040057 
+ste:  -0.117523, cha:  -0.040057, dis:   0.535009 -- In right corner! to out side
+ang:  -0.017798, dis:   0.026750, spd:  71.844650 
+
+ang_cha: -0.046645 
+ste:  -0.090860, cha:  -0.046645, dis:   0.557377 -- In right corner! to in side
+ang:   0.000681, dis:   0.027869, spd:  74.896111 
+
+ang_cha: -0.043759 
+ste:  -0.078444, cha:  -0.043759, dis:   0.525887 -- In right corner! to in side
+ang:   0.010758, dis:   0.026294, spd:  78.532639 
+
+ang_cha: -0.043136 
+ste:   0.002815, cha:  -0.043136, dis:   0.462116 -- In right corner! to in side
+ang:   0.020988, dis:   0.023106, spd:  80.424606 
+
+ang_cha: -0.041502 
+ste:  -0.059093, cha:  -0.041502, dis:   0.369522 -- In right corner! to in side
+ang:   0.022136, dis:   0.018476, spd:  77.274605 
+
+ang_cha: -0.017079 
+ste:  -0.026419, cha:  -0.017079, dis:   0.326461 -- In right corner! to in side
+ang:   0.008790, dis:   0.016323, spd:  74.353851 
+
+ang_cha: 0.040605 
+ste:   0.100925, cha:   0.040605, dis:   0.209800 -- In left corner! to in side 222
+ang:   0.072617, dis:   0.010490, spd:  72.307571 
+
+ang_cha: 0.042188 
+ste:   0.227373, cha:   0.042188, dis:  -0.220168 -- In left corner! to out side
+ang:   0.126794, dis:  -0.011008, spd:  75.451874 
+
+ang_cha: 0.041665 
+ste:   0.252065, cha:   0.041665, dis:  -0.752966 -- In left corner! to out side
+ang:   0.121204, dis:  -0.037648, spd:  77.949493 
+
+ang_cha: 0.040034 
+ste:   0.190966, cha:   0.040034, dis:  -1.135863 -- In left corner! to out side
+ang:   0.051550, dis:  -0.056793, spd:  75.314163 
+
+ang_cha: 0.038617 
+ste:   0.052783, cha:   0.038617, dis:  -1.195505 -- In left corner! to in side
+ang:  -0.032688, dis:  -0.059775, spd:  72.062317 
+
+ang_cha: 0.039374 
+ste:   0.014187, cha:   0.039374, dis:  -0.978228 -- In left corner! to in side
+ang:  -0.070827, dis:  -0.048911, spd:  70.688477 
+
+ang_cha: 0.046095 
+ste:   0.037967, cha:   0.046095, dis:  -0.683674 -- In left corner! to in side
+ang:  -0.054460, dis:  -0.034184, spd:  74.621307 
+
+ang_cha: 0.043530 
+ste:   0.069797, cha:   0.043530, dis:  -0.488154 -- In left corner! to in side
+ang:  -0.017720, dis:  -0.024408, spd:  78.078400 
+
+ang_cha: 0.043031 
+ste:   0.080632, cha:   0.043031, dis:  -0.434286 -- In left corner! to out side
+ang:   0.006808, dis:  -0.021714, spd:  80.129059 
+
+ang_cha: 0.041426 
+ste:   0.111768, cha:   0.041426, dis:  -0.458072 -- In left corner! to out side
+ang:   0.009568, dis:  -0.022904, spd:  77.103462 
+
+ang_cha: 0.039971 
+ste:   0.104560, cha:   0.039971, dis:  -0.484709 -- In left corner! to out side
+ang:   0.006823, dis:  -0.024235, spd:  73.969086 
+
+ang_cha: 0.040752 
+ste:   0.100233, cha:   0.040752, dis:  -0.488222 -- In left corner! to out side
+ang:   0.002621, dis:  -0.024411, spd:  72.656326 
+
+ang_cha: 0.042566 
+ste:   0.083977, cha:   0.042566, dis:  -0.474616 -- In left corner! to in side
+ang:  -0.000723, dis:  -0.023731, spd:  76.564026 
+
+ang_cha: 0.042056 
+ste:   0.068811, cha:   0.042056, dis:  -0.437524 -- In left corner! to in side
+ang:  -0.015481, dis:  -0.021876, spd:  78.306229 
+
+ang_cha: 0.040536 
+ste:   0.056010, cha:   0.040536, dis:  -0.354830 -- In left corner! to in side
+ang:  -0.021751, dis:  -0.017741, spd:  75.079750 
+
+ang_cha: 0.039151 
+ste:   0.052740, cha:   0.039151, dis:  -0.260818 -- In left corner! to in side
+ang:  -0.019527, dis:  -0.013041, spd:  72.680733 
+
+ang_cha: 0.039718 
+ste:   0.067322, cha:   0.039718, dis:  -0.193811 -- In left corner! to in side
+ang:  -0.002805, dis:  -0.009691, spd:  70.919464 
+
+ang_cha: 0.046445 
+ste:   0.113332, cha:   0.046445, dis:  -0.198173 -- In left corner! to out side
+ang:   0.018547, dis:  -0.009909, spd:  74.180061 
+
+ang_cha: 0.043644 
+ste:   0.130447, cha:   0.043644, dis:  -0.279356 -- In left corner! to out side
+ang:   0.030903, dis:  -0.013968, spd:  78.035583 
+
+ang_cha: 0.043014 
+ste:   0.080383, cha:   0.043014, dis:  -0.375014 -- In left corner! to out side
+ang:   0.009601, dis:  -0.018751, spd:  80.059364 
+
+ang_cha: 0.041378 
+ste:   0.061877, cha:   0.041378, dis:  -0.369040 -- In left corner! to in side
+ang:  -0.019003, dis:  -0.018452, spd:  76.988686 
+
+ang_cha: 0.039906 
+ste:   0.052350, cha:   0.039906, dis:  -0.277564 -- In left corner! to in side
+ang:  -0.022505, dis:  -0.013878, spd:  74.123970 
+
+ang_cha: 0.040423 
+ste:   0.064893, cha:   0.040423, dis:  -0.187885 -- In left corner! to in side
+ang:  -0.007741, dis:  -0.009394, spd:  72.243317 
+
+ang_cha: 0.042348 
+ste:   0.097957, cha:   0.042348, dis:  -0.163981 -- In left corner! to out side
+ang:   0.011722, dis:  -0.008199, spd:  75.418655 
+
+ang_cha: 0.042144 
+ste:   0.109361, cha:   0.042144, dis:  -0.212221 -- In left corner! to out side
+ang:   0.017709, dis:  -0.010611, spd:  77.941353 
+
+ang_cha: 0.040553 
+ste:   0.095087, cha:   0.040553, dis:  -0.255041 -- In left corner! to out side
+ang:   0.007563, dis:  -0.012752, spd:  75.335144 
+
+ang_cha: 0.039138 
+ste:   0.063556, cha:   0.039138, dis:  -0.240872 -- In left corner! to in side
+ang:  -0.007675, dis:  -0.012044, spd:  72.263237 
+
+ang_cha: 0.039969 
+ste:   0.063395, cha:   0.039969, dis:  -0.185146 -- In left corner! to in side
+ang:  -0.007347, dis:  -0.009257, spd:  71.007538 
+
+ang_cha: 0.046669 
+ste:   0.100078, cha:   0.046669, dis:  -0.154353 -- In left corner! to out side
+ang:   0.007533, dis:  -0.007718, spd:  74.968338 
+
+ang_cha: 0.043820 
+ste:   0.115318, cha:   0.043820, dis:  -0.188017 -- In left corner! to out side
+ang:   0.021139, dis:  -0.009401, spd:  78.330009 
+
+ang_cha: 0.043153 
+ste:   0.071127, cha:   0.043153, dis:  -0.249688 -- In left corner! to out side
+ang:   0.007198, dis:  -0.012484, spd:  80.257294 
+
+ang_cha: 0.041470 
+ste:   0.066233, cha:   0.041470, dis:  -0.242620 -- In left corner! to in side
+ang:  -0.013166, dis:  -0.012131, spd:  77.101959 
+
+ang_cha: 0.039986 
+ste:   0.061996, cha:   0.039986, dis:  -0.179688 -- In left corner! to in side
+ang:  -0.011171, dis:  -0.008984, spd:  73.840446 
+
+ang_cha: 0.040757 
+ste:   0.079272, cha:   0.040757, dis:  -0.131330 -- In left corner! to out side
+ang:   0.001590, dis:  -0.006566, spd:  72.443657 
+
+ang_cha: 0.042532 
+ste:   0.102528, cha:   0.042532, dis:  -0.142779 -- In left corner! to out side
+ang:   0.015852, dis:  -0.007139, spd:  76.270576 
+
+ang_cha: 0.041941 
+ste:   0.104029, cha:   0.041941, dis:  -0.195980 -- In left corner! to out side
+ang:   0.014024, dis:  -0.009799, spd:  77.932518 
+
+ang_cha: 0.040378 
+ste:   0.086260, cha:   0.040378, dis:  -0.219924 -- In left corner! to out side
+ang:   0.002232, dis:  -0.010996, spd:  74.589424 
+
+ang_cha: 0.041081 
+ste:   0.073978, cha:   0.041081, dis:  -0.202700 -- In left corner! to in side
+ang:  -0.000605, dis:  -0.010135, spd:  73.126945 
+
+ang_cha: 0.042823 
+ste:   0.091322, cha:   0.042823, dis:  -0.186101 -- In left corner! to out side
+ang:   0.002467, dis:  -0.009305, spd:  76.866638 
+
+ang_cha: 0.046820 
+ste:   0.099269, cha:   0.046820, dis:  -0.185404 -- In left corner! to out side
+ang:   0.001438, dis:  -0.009270, spd:  78.483505 
+
+ang_cha: 0.040431 
+ste:   0.067782, cha:   0.040431, dis:  -0.170723 -- In left corner! to in side
+ang:  -0.007061, dis:  -0.008536, spd:  75.095703 
+
+ang_cha: 0.038992 
+ste:   0.052355, cha:   0.038992, dis:  -0.115933 -- In left corner! to in side
+ang:  -0.017088, dis:  -0.005797, spd:  72.251335 
+
+ang_cha: 0.039809 
+ste:   0.062924, cha:   0.039809, dis:  -0.045976 -- In left corner! to in side
+ang:  -0.005388, dis:  -0.002299, spd:  71.044067 
+
+ang_cha: 0.041709 
+ste:   0.089821, cha:   0.041709, dis:  -0.032294 -- In left corner! to out side
+ang:   0.013091, dis:  -0.001615, spd:  74.157822 
+
+ang_cha: 0.043400 
+ste:   0.116704, cha:   0.043400, dis:  -0.105783 -- In left corner! to out side
+ang:   0.027670, dis:  -0.005289, spd:  77.854187 
+
+ang_cha: 0.043990 
+ste:   0.115864, cha:   0.043990, dis:  -0.202471 -- In left corner! to out side
+ang:   0.019579, dis:  -0.010124, spd:  79.427849 
+
+ang_cha: 0.041389 
+ste:   0.076082, cha:   0.041389, dis:  -0.248033 -- In left corner! to in side
+ang:  -0.002397, dis:  -0.012402, spd:  75.891312 
+
+ang_cha: 0.039860 
+ste:   0.051405, cha:   0.039860, dis:  -0.201833 -- In left corner! to in side
+ang:  -0.021636, dis:  -0.010092, spd:  73.235771 
+
+ang_cha: 0.040620 
+ste:   0.058711, cha:   0.040620, dis:  -0.111383 -- In left corner! to in side
+ang:  -0.012954, dis:  -0.005569, spd:  71.799957 
+
+ang_cha: 0.042561 
+ste:   0.087122, cha:   0.042561, dis:  -0.071396 -- In left corner! to out side
+ang:   0.006578, dis:  -0.003570, spd:  74.959717 
+
+ang_cha: 0.044307 
+ste:   0.114569, cha:   0.044307, dis:  -0.114636 -- In left corner! to out side
+ang:   0.023319, dis:  -0.005732, spd:  78.311989 
+
+ang_cha: 0.043673 
+ste:   0.078708, cha:   0.043673, dis:  -0.203348 -- In left corner! to out side
+ang:   0.015786, dis:  -0.010167, spd:  80.397110 
+
+ang_cha: 0.041938 
+ste:   0.075701, cha:   0.041938, dis:  -0.238266 -- In left corner! to in side
+ang:  -0.004818, dis:  -0.011913, spd:  77.199867 
+
+ang_cha: 0.040401 
+ste:   0.067553, cha:   0.040401, dis:  -0.210214 -- In left corner! to in side
+ang:  -0.007056, dis:  -0.010511, spd:  74.207352 
+
+ang_cha: 0.041132 
+ste:   0.083526, cha:   0.041132, dis:  -0.181129 -- In left corner! to out side
+ang:   0.002435, dis:  -0.009056, spd:  72.381531 
+
+ang_cha: 0.005143 
+ste:  -0.010752, cha:   0.005143, dis:  -0.154759 -- On straight! close, in side
+ang:  -0.023078, dis:  -0.007738, spd:  75.905525 
+
+ang_cha: 0.000000 
+ste:  -0.041639, cha:   0.000000, dis:   0.011562 -- On straight! close, out side
+ang:  -0.069013, dis:   0.000578, spd:  78.145393 
+
+ang_cha: 0.000000 
+ste:  -0.046115, cha:   0.000000, dis:   0.289213 -- On straight! close, out side
+ang:  -0.067218, dis:   0.014461, spd:  75.146126 
+
+ang_cha: 0.000000 
+ste:  -0.039848, cha:   0.000000, dis:   0.542876 -- On straight! close, out side
+ang:  -0.048317, dis:   0.027144, spd:  73.391815 
+
+ang_cha: 0.000000 
+ste:  -0.022431, cha:   0.000000, dis:   0.745177 -- On straight! close, out side
+ang:  -0.012546, dis:   0.037259, spd:  81.455559 
+
+ang_cha: 0.000000 
+ste:  -0.010476, cha:   0.000000, dis:   0.803495 -- On straight! close, in side
+ang:   0.009324, dis:   0.040175, spd:  92.958588 
+
+ang_cha: 0.000000 
+ste:  -0.001742, cha:   0.000000, dis:   0.735166 -- On straight! close, in side
+ang:   0.021602, dis:   0.036758, spd:  99.335617 
+
+ang_cha: 0.000000 
+ste:   0.004352, cha:   0.000000, dis:   0.604153 -- On straight! close, in side
+ang:   0.027392, dis:   0.030208, spd: 101.573471 
+
+ang_cha: 0.000000 
+ste:   0.008139, cha:   0.000000, dis:   0.444452 -- On straight! close, in side
+ang:   0.028381, dis:   0.022223, spd: 103.703033 
+
+ang_cha: 0.000000 
+ste:   0.009932, cha:   0.000000, dis:   0.281549 -- On straight! close, in side
+ang:   0.025939, dis:   0.014077, spd: 105.921013 
+
+ang_cha: 0.000000 
+ste:   0.009942, cha:   0.000000, dis:   0.134490 -- On straight! close, in side
+ang:   0.021054, dis:   0.006725, spd: 107.640961 
+
+ang_cha: 0.000000 
+ste:   0.008882, cha:   0.000000, dis:   0.015714 -- On straight! close, in side
+ang:   0.015327, dis:   0.000786, spd: 108.800209 
+
+ang_cha: 0.000000 
+ste:   0.007095, cha:   0.000000, dis:  -0.069829 -- On straight! close, out side
+ang:   0.009497, dis:  -0.003491, spd: 110.722198 
+
+ang_cha: 0.000000 
+ste:   0.005063, cha:   0.000000, dis:  -0.121436 -- On straight! close, out side
+ang:   0.004391, dis:  -0.006072, spd: 112.762878 
+
+ang_cha: 0.000000 
+ste:   0.003999, cha:   0.000000, dis:  -0.143862 -- On straight! close, out side
+ang:   0.001870, dis:  -0.007193, spd: 113.536423 
+
+ang_cha: 0.000000 
+ste:   0.003387, cha:   0.000000, dis:  -0.151218 -- On straight! close, out side
+ang:   0.000605, dis:  -0.007561, spd: 110.155861 
+
+ang_cha: 0.000000 
+ste:   0.001985, cha:   0.000000, dis:  -0.150213 -- On straight! close, in side
+ang:  -0.001699, dis:  -0.007511, spd: 108.168808 
+
+ang_cha: 0.000000 
+ste:   0.000538, cha:   0.000000, dis:  -0.136726 -- On straight! close, in side
+ang:  -0.003660, dis:  -0.006836, spd: 110.307053 
+
+ang_cha: 0.000000 
+ste:  -0.000652, cha:   0.000000, dis:  -0.112154 -- On straight! close, in side
+ang:  -0.004826, dis:  -0.005608, spd: 111.996231 
+
+ang_cha: 0.000000 
+ste:  -0.001324, cha:   0.000000, dis:  -0.081150 -- On straight! close, in side
+ang:  -0.004911, dis:  -0.004058, spd: 113.991013 
+
+ang_cha: 0.000000 
+ste:   0.000078, cha:   0.000000, dis:  -0.052985 -- On straight! close, in side
+ang:  -0.001637, dis:  -0.002649, spd: 114.724701 
+
+ang_cha: 0.000000 
+ste:   0.001909, cha:   0.000000, dis:  -0.044496 -- On straight! close, out side
+ang:   0.001698, dis:  -0.002225, spd: 111.278435 
+
+ang_cha: 0.000000 
+ste:   0.002027, cha:   0.000000, dis:  -0.052493 -- On straight! close, out side
+ang:   0.001628, dis:  -0.002625, spd: 109.239777 
+
+ang_cha: 0.000000 
+ste:   0.001531, cha:   0.000000, dis:  -0.060460 -- On straight! close, out side
+ang:   0.000537, dis:  -0.003023, spd: 111.339035 
+
+ang_cha: 0.000000 
+ste:   0.000972, cha:   0.000000, dis:  -0.061896 -- On straight! close, in side
+ang:  -0.000443, dis:  -0.003095, spd: 112.996979 
+
+ang_cha: 0.000000 
+ste:   0.001905, cha:   0.000000, dis:  -0.059725 -- On straight! close, out side
+ang:   0.001184, dis:  -0.002986, spd: 113.623322 
+
+ang_cha: 0.000000 
+ste:   0.003042, cha:   0.000000, dis:  -0.066441 -- On straight! close, out side
+ang:   0.002855, dis:  -0.003322, spd: 110.837463 
+
+ang_cha: 0.000000 
+ste:   0.002656, cha:   0.000000, dis:  -0.080542 -- On straight! close, out side
+ang:   0.001742, dis:  -0.004027, spd: 108.729523 
+
+ang_cha: 0.000000 
+ste:   0.001759, cha:   0.000000, dis:  -0.088356 -- On straight! close, in side
+ang:  -0.000013, dis:  -0.004418, spd: 110.465858 
+
+ang_cha: 0.000000 
+ste:   0.001024, cha:   0.000000, dis:  -0.085909 -- On straight! close, in side
+ang:  -0.001157, dis:  -0.004295, spd: 112.517868 
+
+ang_cha: 0.000000 
+ste:   0.001738, cha:   0.000000, dis:  -0.078434 -- On straight! close, out side
+ang:   0.000282, dis:  -0.003922, spd: 112.811867 
+
+ang_cha: 0.000000 
+ste:   0.002579, cha:   0.000000, dis:  -0.079596 -- On straight! close, out side
+ang:   0.001646, dis:  -0.003980, spd: 109.469666 
+
+ang_cha: 0.000000 
+ste:   0.002107, cha:   0.000000, dis:  -0.086792 -- On straight! close, out side
+ang:   0.000618, dis:  -0.004340, spd: 107.993759 
+
+ang_cha: 0.000000 
+ste:   0.001245, cha:   0.000000, dis:  -0.088076 -- On straight! close, in side
+ang:  -0.000860, dis:  -0.004404, spd: 110.136368 
+
+ang_cha: 0.040465 
+ste:   0.113459, cha:   0.040465, dis:  -0.119781 -- In left corner! to out side
+ang:   0.038387, dis:  -0.005989, spd: 111.830536 
+
+ang_cha: 0.063155 
+ste:   0.238595, cha:   0.063155, dis:  -0.482906 -- In left corner! to out side
+ang:   0.099390, dis:  -0.024145, spd: 113.838211 
+
+ang_cha: 0.061617 
+ste:   0.246492, cha:   0.061617, dis:  -1.096199 -- In left corner! to out side
+ang:   0.077977, dis:  -0.054810, spd: 114.087990 
+
+ang_cha: 0.059635 
+ste:   0.013491, cha:   0.059635, dis:  -1.507557 -- In left corner! to in side
+ang:  -0.021112, dis:  -0.075378, spd: 110.474152 
+
+ang_cha: 0.057605 
+ste:  -0.077007, cha:   0.057605, dis:  -1.411528 -- In left corner! to in side
+ang:  -0.137454, dis:  -0.070576, spd: 107.186745 
+
+ang_cha: 0.055720 
+ste:  -0.074858, cha:   0.055720, dis:  -0.831039 -- In left corner! to in side
+ang:  -0.124307, dis:  -0.041552, spd: 103.028214 
+
+ang_cha: 0.054787 
+ste:  -0.007475, cha:   0.054787, dis:  -0.329813 -- In left corner! to in side
+ang:  -0.019582, dis:  -0.016491, spd: 100.600914 
+
+ang_cha: 0.053646 
+ste:   0.188537, cha:   0.053646, dis:  -0.374683 -- In left corner! to out side
+ang:   0.084443, dis:  -0.018734, spd:  97.918892 
+
+ang_cha: 0.051882 
+ste:   0.277603, cha:   0.051882, dis:  -0.899673 -- In left corner! to out side
+ang:   0.142834, dis:  -0.044984, spd:  95.800064 
+
+ang_cha: 0.050250 
+ste:   0.243995, cha:   0.050250, dis:  -1.553442 -- In left corner! to out side
+ang:   0.083243, dis:  -0.077672, spd:  93.317368 
+
+ang_cha: 0.048155 
+ste:   0.006990, cha:   0.048155, dis:  -1.857572 -- In left corner! to in side
+ang:  -0.046619, dis:  -0.092879, spd:  90.577087 
+
+ang_cha: 0.045742 
+ste:  -0.076971, cha:   0.045742, dis:  -1.616808 -- In left corner! to in side
+ang:  -0.178518, dis:  -0.080840, spd:  85.722328 
+
+ang_cha: 0.043522 
+ste:  -0.079310, cha:   0.043522, dis:  -0.938144 -- In left corner! to in side
+ang:  -0.167545, dis:  -0.046907, spd:  81.948898 
+
+ang_cha: 0.042332 
+ste:  -0.003284, cha:   0.042332, dis:  -0.334310 -- In left corner! to in side
+ang:  -0.083532, dis:  -0.016715, spd:  78.390366 
+
+ang_cha: 0.041200 
+ste:   0.079808, cha:   0.041200, dis:  -0.093902 -- In left corner! to out side
+ang:   0.000295, dis:  -0.004695, spd:  75.762436 
+
+ang_cha: 0.039871 
+ste:   0.124846, cha:   0.039871, dis:  -0.141589 -- In left corner! to out side
+ang:   0.043650, dis:  -0.007079, spd:  72.732018 
+
+ang_cha: 0.040817 
+ste:   0.144334, cha:   0.040817, dis:  -0.310874 -- In left corner! to out side
+ang:   0.052148, dis:  -0.015544, spd:  71.898819 
+
+ang_cha: 0.042528 
+ste:   0.146779, cha:   0.042528, dis:  -0.492299 -- In left corner! to out side
+ang:   0.039022, dis:  -0.024615, spd:  75.825111 
+
+ang_cha: 0.041766 
+ste:   0.110764, cha:   0.041766, dis:  -0.592075 -- In left corner! to out side
+ang:   0.001377, dis:  -0.029604, spd:  77.115593 
+
+ang_cha: 0.040319 
+ste:   0.046868, cha:   0.040319, dis:  -0.535650 -- In left corner! to in side
+ang:  -0.032587, dis:  -0.026783, spd:  73.897064 
+
+ang_cha: 0.041370 
+ste:   0.041430, cha:   0.041370, dis:  -0.371118 -- In left corner! to in side
+ang:  -0.037048, dis:  -0.018556, spd:  73.038902 
+
+ang_cha: 0.043231 
+ste:   0.065334, cha:   0.043231, dis:  -0.222906 -- In left corner! to in side
+ang:  -0.016486, dis:  -0.011145, spd:  76.577988 
+
+ang_cha: 0.042534 
+ste:   0.088832, cha:   0.042534, dis:  -0.164431 -- In left corner! to out side
+ang:   0.000525, dis:  -0.008222, spd:  78.215828 
+
+ang_cha: 0.041063 
+ste:   0.089799, cha:   0.041063, dis:  -0.160282 -- In left corner! to out side
+ang:   0.006995, dis:  -0.008014, spd:  74.961754 
+
+ang_cha: 0.042021 
+ste:   0.095994, cha:   0.042021, dis:  -0.172639 -- In left corner! to out side
+ang:   0.011319, dis:  -0.008632, spd:  74.010017 
+
+ang_cha: 0.043801 
+ste:   0.107515, cha:   0.043801, dis:  -0.203465 -- In left corner! to out side
+ang:   0.013830, dis:  -0.010173, spd:  77.776489 
+
+ang_cha: 0.043229 
+ste:   0.096402, cha:   0.043229, dis:  -0.233638 -- In left corner! to out side
+ang:   0.001496, dis:  -0.011682, spd:  79.578339 
+
+ang_cha: 0.041553 
+ste:   0.062472, cha:   0.041553, dis:  -0.204722 -- In left corner! to in side
+ang:  -0.015697, dis:  -0.010236, spd:  76.149292 
+
+ang_cha: 0.040055 
+ste:   0.047060, cha:   0.040055, dis:  -0.112525 -- In left corner! to in side
+ang:  -0.025249, dis:  -0.005626, spd:  73.530571 
+
+ang_cha: 0.040841 
+ste:   0.059626, cha:   0.040841, dis:  -0.010043 -- In left corner! to in side
+ang:  -0.011078, dis:  -0.000502, spd:  72.118507 
+
+ang_cha: 0.042727 
+ste:   0.049007, cha:   0.042727, dis:   0.025184 -- In left corner! to in side 222
+ang:   0.009803, dis:   0.001259, spd:  75.289169 
+
+ang_cha: 0.042217 
+ste:   0.098917, cha:   0.042217, dis:  -0.014872 -- In left corner! to out side
+ang:   0.018334, dis:  -0.000744, spd:  77.530289 
+
+ang_cha: 0.040610 
+ste:   0.111672, cha:   0.040610, dis:  -0.096228 -- In left corner! to out side
+ang:   0.031201, dis:  -0.004811, spd:  74.523979 
+
+ang_cha: 0.041232 
+ste:   0.116263, cha:   0.041232, dis:  -0.202383 -- In left corner! to out side
+ang:   0.030763, dis:  -0.010119, spd:  72.621490 
+
+ang_cha: 0.042977 
+ste:   0.120346, cha:   0.042977, dis:  -0.302414 -- In left corner! to out side
+ang:   0.023545, dis:  -0.015121, spd:  76.044945 
+
+ang_cha: 0.042407 
+ste:   0.099502, cha:   0.042407, dis:  -0.360308 -- In left corner! to out side
+ang:   0.000681, dis:  -0.018015, spd:  78.178375 
+
+ang_cha: 0.040749 
+ste:   0.054865, cha:   0.040749, dis:  -0.321548 -- In left corner! to in side
+ang:  -0.022779, dis:  -0.016077, spd:  75.082428 
+
+ang_cha: 0.039280 
+ste:   0.038102, cha:   0.039280, dis:  -0.202325 -- In left corner! to in side
+ang:  -0.033716, dis:  -0.010116, spd:  72.198059 
+
+ang_cha: 0.040101 
+ste:   0.052475, cha:   0.040101, dis:  -0.074308 -- In left corner! to in side
+ang:  -0.016940, dis:  -0.003715, spd:  70.461769 
+
+ang_cha: 0.042076 
+ste:   0.083970, cha:   0.042076, dis:  -0.023932 -- In left corner! to out side
+ang:   0.007710, dis:  -0.001197, spd:  74.038803 
+
+ang_cha: 0.043878 
+ste:   0.114839, cha:   0.043878, dis:  -0.072533 -- In left corner! to out side
+ang:   0.027241, dis:  -0.003627, spd:  77.422134 
+
+ang_cha: 0.043544 
+ste:   0.084193, cha:   0.043544, dis:  -0.178727 -- In left corner! to out side
+ang:   0.022275, dis:  -0.008936, spd:  80.152512 
+
+ang_cha: 0.041790 
+ste:   0.091678, cha:   0.041790, dis:  -0.238349 -- In left corner! to out side
+ang:   0.001830, dis:  -0.011917, spd:  76.940163 
+
+ang_cha: 0.040232 
+ste:   0.071250, cha:   0.040232, dis:  -0.231451 -- In left corner! to in side
+ang:  -0.003082, dis:  -0.011573, spd:  73.928528 
+
+ang_cha: 0.040939 
+ste:   0.073065, cha:   0.040939, dis:  -0.205853 -- In left corner! to in side
+ang:  -0.000286, dis:  -0.010293, spd:  72.072525 
+
+ang_cha: 0.042767 
+ste:   0.099315, cha:   0.042767, dis:  -0.205083 -- In left corner! to out side
+ang:   0.010093, dis:  -0.010254, spd:  75.552643 
+
+ang_cha: 0.042249 
+ste:   0.102479, cha:   0.042249, dis:  -0.242227 -- In left corner! to out side
+ang:   0.009939, dis:  -0.012111, spd:  77.762520 
+
+ang_cha: 0.040663 
+ste:   0.074822, cha:   0.040663, dis:  -0.260213 -- In left corner! to in side
+ang:  -0.001451, dis:  -0.013011, spd:  74.742821 
+
+ang_cha: 0.041352 
+ste:   0.072864, cha:   0.041352, dis:  -0.237365 -- In left corner! to in side
+ang:  -0.002496, dis:  -0.011868, spd:  72.851677 
+
+ang_cha: 0.043175 
+ste:   0.098395, cha:   0.043175, dis:  -0.226555 -- In left corner! to out side
+ang:   0.006814, dis:  -0.011328, spd:  76.304283 
+
+ang_cha: 0.042653 
+ste:   0.100778, cha:   0.042653, dis:  -0.251086 -- In left corner! to out side
+ang:   0.006576, dis:  -0.012554, spd:  78.513596 
+
+ang_cha: 0.039431 
+ste:   0.067271, cha:   0.039431, dis:  -0.256643 -- In left corner! to in side
+ang:  -0.007387, dis:  -0.012832, spd:  75.471024 
+
+ang_cha: -0.039606 
+ste:  -0.130954, cha:  -0.039606, dis:  -0.102318 -- In right corner! to in side 222
+ang:  -0.099089, dis:  -0.005116, spd:  72.631775 
+
+ang_cha: -0.039632 
+ste:  -0.269492, cha:  -0.039632, dis:   0.382072 -- In right corner! to out side
+ang:  -0.165522, dis:   0.019104, spd:  70.370796 
+
+ang_cha: -0.041180 
+ste:  -0.300655, cha:  -0.041180, dis:   1.042607 -- In right corner! to out side
+ang:  -0.155266, dis:   0.052130, spd:  73.963112 
+
+ang_cha: -0.042817 
+ste:  -0.266851, cha:  -0.042817, dis:   1.604203 -- In right corner! to out side
+ang:  -0.090717, dis:   0.080210, spd:  77.327614 
+
+ang_cha: -0.042234 
+ste:  -0.074430, cha:  -0.042234, dis:   1.843012 -- In right corner! to in side
+ang:   0.031124, dis:   0.092151, spd:  79.216148 
+
+ang_cha: -0.040360 
+ste:   0.041578, cha:  -0.040360, dis:   1.612243 -- In right corner! to in side
+ang:   0.137157, dis:   0.080612, spd:  75.779305 
+
+ang_cha: -0.038779 
+ste:   0.055507, cha:  -0.038779, dis:   1.069336 -- In right corner! to in side
+ang:   0.143120, dis:   0.053467, spd:  72.639793 
+
+ang_cha: -0.039882 
+ste:   0.005392, cha:  -0.039882, dis:   0.568759 -- In right corner! to in side
+ang:   0.085948, dis:   0.028438, spd:  70.890816 
+
+ang_cha: -0.042213 
+ste:  -0.060131, cha:  -0.042213, dis:   0.295706 -- In right corner! to in side
+ang:   0.019379, dis:   0.014785, spd:  74.590317 
+
+ang_cha: -0.044142 
+ste:  -0.126653, cha:  -0.044142, dis:   0.267859 -- In right corner! to out side
+ang:  -0.027138, dis:   0.013393, spd:  78.086090 
+
+ang_cha: -0.043551 
+ste:  -0.109319, cha:  -0.043551, dis:   0.386645 -- In right corner! to out side
+ang:  -0.034645, dis:   0.019332, spd:  80.275711 
+
+ang_cha: -0.041842 
+ste:  -0.113041, cha:  -0.041842, dis:   0.482872 -- In right corner! to out side
+ang:  -0.008733, dis:   0.024144, spd:  77.168213 
+
+ang_cha: -0.040320 
+ste:  -0.069799, cha:  -0.040320, dis:   0.477556 -- In right corner! to in side
+ang:   0.008732, dis:   0.023878, spd:  74.248901 
+
+ang_cha: -0.041029 
+ste:  -0.064115, cha:  -0.041029, dis:   0.405647 -- In right corner! to in side
+ang:   0.013114, dis:   0.020282, spd:  72.353783 
+
+ang_cha: -0.042936 
+ste:  -0.080943, cha:  -0.042936, dis:   0.337813 -- In right corner! to in side
+ang:   0.001728, dis:   0.016891, spd:  75.932938 
+
+ang_cha: -0.042486 
+ste:  -0.100089, cha:  -0.042486, dis:   0.317183 -- In right corner! to out side
+ang:  -0.003192, dis:   0.015859, spd:  78.227554 
+
+ang_cha: -0.040902 
+ste:  -0.077671, cha:  -0.040902, dis:   0.305520 -- In right corner! to in side
+ang:   0.000206, dis:   0.015276, spd:  75.262833 
+
+ang_cha: -0.039455 
+ste:  -0.061615, cha:  -0.039455, dis:   0.264786 -- In right corner! to in side
+ang:   0.010815, dis:   0.013239, spd:  72.487968 
+
+ang_cha: -0.040220 
+ste:  -0.067664, cha:  -0.040220, dis:   0.201803 -- In right corner! to in side
+ang:   0.003248, dis:   0.010090, spd:  70.695190 
+
+ang_cha: -0.042194 
+ste:  -0.097124, cha:  -0.042194, dis:   0.179185 -- In right corner! to out side
+ang:  -0.011125, dis:   0.008959, spd:  74.687149 
+
+ang_cha: -0.043966 
+ste:  -0.118087, cha:  -0.043966, dis:   0.217888 -- In right corner! to out side
+ang:  -0.022457, dis:   0.010894, spd:  77.760674 
+
+ang_cha: -0.043365 
+ste:  -0.108848, cha:  -0.043365, dis:   0.279380 -- In right corner! to out side
+ang:  -0.010312, dis:   0.013969, spd:  79.552849 
+
+ang_cha: -0.041666 
+ste:  -0.067928, cha:  -0.041666, dis:   0.274043 -- In right corner! to in side
+ang:   0.012012, dis:   0.013702, spd:  76.714066 
+
+ang_cha: -0.040200 
+ste:  -0.046820, cha:  -0.040200, dis:   0.182860 -- In right corner! to in side
+ang:   0.026801, dis:   0.009143, spd:  73.485199 
+
+ang_cha: -0.041190 
+ste:  -0.056542, cha:  -0.041190, dis:   0.063662 -- In right corner! to in side
+ang:   0.016006, dis:   0.003183, spd:  72.445839 
+
+ang_cha: -0.042990 
+ste:  -0.082201, cha:  -0.042990, dis:   0.003354 -- In right corner! to out side
+ang:  -0.003567, dis:   0.000168, spd:  76.294388 
+
+ang_cha: -0.042218 
+ste:  -0.093418, cha:  -0.042218, dis:   0.017474 -- In right corner! to out side
+ang:  -0.013200, dis:   0.000874, spd:  77.534439 
+
+ang_cha: -0.040685 
+ste:  -0.087509, cha:  -0.040685, dis:   0.052754 -- In right corner! to out side
+ang:  -0.011539, dis:   0.002638, spd:  74.238510 
+
+ang_cha: -0.041573 
+ste:  -0.090498, cha:  -0.041573, dis:   0.080836 -- In right corner! to out side
+ang:  -0.012415, dis:   0.004042, spd:  73.139938 
+
+ang_cha: -0.043270 
+ste:  -0.101434, cha:  -0.043270, dis:   0.119830 -- In right corner! to out side
+ang:  -0.014206, dis:   0.005992, spd:  76.892311 
+
+ang_cha: -0.042454 
+ste:  -0.093232, cha:  -0.042454, dis:   0.159058 -- In right corner! to out side
+ang:  -0.005047, dis:   0.007953, spd:  78.087631 
+
+ang_cha: -0.040911 
+ste:  -0.068446, cha:  -0.040911, dis:   0.152969 -- In right corner! to in side
+ang:   0.006676, dis:   0.007648, spd:  74.743660 
+
+ang_cha: -0.041811 
+ste:  -0.070057, cha:  -0.041811, dis:   0.111462 -- In right corner! to in side
+ang:   0.004990, dis:   0.005573, spd:  73.614685 
+
+ang_cha: -0.043544 
+ste:  -0.091920, cha:  -0.043544, dis:   0.094560 -- In right corner! to out side
+ang:  -0.005909, dis:   0.004728, spd:  77.374062 
+
+ang_cha: -0.042741 
+ste:  -0.094475, cha:  -0.042741, dis:   0.118558 -- In right corner! to out side
+ang:  -0.007269, dis:   0.005928, spd:  78.572075 
+
+ang_cha: -0.007595 
+ste:   0.018540, cha:  -0.007595, dis:   0.124922 -- On straight! close, in side
+ang:   0.035064, dis:   0.006246, spd:  75.237282 
+
+ang_cha: 0.039515 
+ste:   0.209287, cha:   0.039515, dis:  -0.130028 -- In left corner! to out side
+ang:   0.121579, dis:  -0.006501, spd:  72.699471 
+
+ang_cha: 0.039829 
+ste:   0.272514, cha:   0.039829, dis:  -0.652888 -- In left corner! to out side
+ang:   0.153672, dis:  -0.032644, spd:  71.248535 
+
+ang_cha: 0.041515 
+ste:   0.264791, cha:   0.041515, dis:  -1.220376 -- In left corner! to out side
+ang:   0.112467, dis:  -0.061019, spd:  74.821457 
+
+ang_cha: 0.043122 
+ste:   0.211938, cha:   0.043122, dis:  -1.595581 -- In left corner! to out side
+ang:   0.040048, dis:  -0.079779, spd:  78.044014 
+
+ang_cha: 0.042232 
+ste:   0.032851, cha:   0.042232, dis:  -1.638125 -- In left corner! to in side
+ang:  -0.067521, dis:  -0.081906, spd:  78.665253 
+
+ang_cha: 0.040378 
+ste:  -0.052456, cha:   0.040378, dis:  -1.280185 -- In left corner! to in side
+ang:  -0.143422, dis:  -0.064009, spd:  75.357834 
+
+ang_cha: 0.038980 
+ste:  -0.043983, cha:   0.038980, dis:  -0.734447 -- In left corner! to in side
+ang:  -0.126356, dis:  -0.036722, spd:  72.688286 
+
+ang_cha: 0.040144 
+ste:   0.010617, cha:   0.040144, dis:  -0.310246 -- In left corner! to in side
+ang:  -0.065422, dis:  -0.015512, spd:  71.399002 
+
+ang_cha: 0.042388 
+ste:   0.072809, cha:   0.042388, dis:  -0.119908 -- In left corner! to in side
+ang:  -0.004399, dis:  -0.005995, spd:  74.701035 
+
+ang_cha: 0.044177 
+ste:   0.129624, cha:   0.044177, dis:  -0.151340 -- In left corner! to out side
+ang:   0.035178, dis:  -0.007567, spd:  78.534088 
+
+ang_cha: 0.043312 
+ste:   0.139033, cha:   0.043312, dis:  -0.301406 -- In left corner! to out side
+ang:   0.036839, dis:  -0.015070, spd:  79.449898 
+
+ang_cha: 0.041631 
+ste:   0.107607, cha:   0.041631, dis:  -0.410744 -- In left corner! to out side
+ang:   0.008433, dis:  -0.020537, spd:  76.411613 
+
+ang_cha: 0.040139 
+ste:   0.054092, cha:   0.040139, dis:  -0.391655 -- In left corner! to in side
+ang:  -0.022514, dis:  -0.019583, spd:  73.556686 
+
+ang_cha: 0.040940 
+ste:   0.050415, cha:   0.040940, dis:  -0.276001 -- In left corner! to in side
+ang:  -0.025227, dis:  -0.013800, spd:  72.485039 
+
+ang_cha: 0.042896 
+ste:   0.073396, cha:   0.042896, dis:  -0.177991 -- In left corner! to in side
+ang:  -0.006880, dis:  -0.008900, spd:  76.081062 
+
+ang_cha: 0.042485 
+ste:   0.092961, cha:   0.042485, dis:  -0.156363 -- In left corner! to out side
+ang:   0.005171, dis:  -0.007818, spd:  77.775940 
+
+ang_cha: 0.040964 
+ste:   0.089592, cha:   0.040964, dis:  -0.168715 -- In left corner! to out side
+ang:   0.006613, dis:  -0.008436, spd:  74.884735 
+
+ang_cha: 0.041690 
+ste:   0.093880, cha:   0.041690, dis:  -0.180686 -- In left corner! to out side
+ang:   0.009775, dis:  -0.009034, spd:  73.732986 
+
+ang_cha: 0.043531 
+ste:   0.105873, cha:   0.043531, dis:  -0.207758 -- In left corner! to out side
+ang:   0.013072, dis:  -0.010388, spd:  77.249710 
+
+ang_cha: 0.043021 
+ste:   0.095884, cha:   0.043021, dis:  -0.237296 -- In left corner! to out side
+ang:   0.001883, dis:  -0.011865, spd:  78.845596 
+
+ang_cha: 0.041403 
+ste:   0.063271, cha:   0.041403, dis:  -0.211802 -- In left corner! to in side
+ang:  -0.014511, dis:  -0.010590, spd:  75.846069 
+
+ang_cha: 0.040035 
+ste:   0.049087, cha:   0.040035, dis:  -0.125039 -- In left corner! to in side
+ang:  -0.023019, dis:  -0.006252, spd:  73.049217 
+
+ang_cha: 0.041137 
+ste:   0.063502, cha:   0.041137, dis:  -0.031045 -- In left corner! to in side
+ang:  -0.008378, dis:  -0.001552, spd:  72.643082 
+
+ang_cha: 0.042972 
+ste:   0.090863, cha:   0.042972, dis:  -0.006426 -- In left corner! to out side
+ang:   0.011390, dis:  -0.000321, spd:  76.217728 
+
+ang_cha: 0.042226 
+ste:   0.098890, cha:   0.042226, dis:  -0.049924 -- In left corner! to out side
+ang:   0.016815, dis:  -0.002496, spd:  77.232391 
+
+ang_cha: 0.040747 
+ste:   0.089302, cha:   0.040747, dis:  -0.093965 -- In left corner! to out side
+ang:   0.010938, dis:  -0.004698, spd:  74.319412 
+
+ang_cha: 0.041725 
+ste:   0.091958, cha:   0.041725, dis:  -0.115427 -- In left corner! to out side
+ang:   0.011202, dis:  -0.005771, spd:  73.770889 
+
+ang_cha: 0.043447 
+ste:   0.102069, cha:   0.043447, dis:  -0.144978 -- In left corner! to out side
+ang:   0.012922, dis:  -0.007249, spd:  77.220528 
+
+ang_cha: 0.041807 
+ste:   0.090458, cha:   0.041807, dis:  -0.172791 -- In left corner! to out side
+ang:   0.002899, dis:  -0.008640, spd:  78.124947 
+
+ang_cha: 0.040642 
+ste:   0.063999, cha:   0.040642, dis:  -0.154061 -- In left corner! to in side
+ang:  -0.010992, dis:  -0.007703, spd:  75.128838 
+
+ang_cha: 0.039177 
+ste:   0.050762, cha:   0.039177, dis:  -0.076817 -- In left corner! to in side
+ang:  -0.018522, dis:  -0.003841, spd:  72.335724 
+
+ang_cha: 0.039691 
+ste:   0.060910, cha:   0.039691, dis:  -0.002251 -- In left corner! to in side
+ang:  -0.006366, dis:  -0.000113, spd:  70.772888 
+
+ang_cha: 0.041626 
+ste:   0.050942, cha:   0.041626, dis:   0.010997 -- In left corner! to in side 222
+ang:   0.012705, dis:   0.000550, spd:  74.332138 
+
+ang_cha: 0.043340 
+ste:   0.114405, cha:   0.043340, dis:  -0.055126 -- In left corner! to out side
+ang:   0.028366, dis:  -0.002756, spd:  77.692184 
+
+ang_cha: 0.042662 
+ste:   0.134875, cha:   0.042662, dis:  -0.187003 -- In left corner! to out side
+ang:   0.040369, dis:  -0.009350, spd:  78.939865 
+
+ang_cha: 0.045399 
+ste:   0.122121, cha:   0.045399, dis:  -0.316267 -- In left corner! to out side
+ang:   0.020675, dis:  -0.015813, spd:  75.846313 
+
+ang_cha: 0.039272 
+ste:   0.066376, cha:   0.039272, dis:  -0.347444 -- In left corner! to in side
+ang:  -0.007232, dis:  -0.017372, spd:  72.934555 
+
+ang_cha: 0.040042 
+ste:   0.056350, cha:   0.040042, dis:  -0.282706 -- In left corner! to in side
+ang:  -0.016666, dis:  -0.014135, spd:  71.268753 
+
+ang_cha: 0.041939 
+ste:   0.073575, cha:   0.041939, dis:  -0.209722 -- In left corner! to in side
+ang:  -0.004216, dis:  -0.010486, spd:  74.739342 
+
+ang_cha: 0.043655 
+ste:   0.106457, cha:   0.043655, dis:  -0.199288 -- In left corner! to out side
+ang:   0.012719, dis:  -0.009964, spd:  78.414886 
+
+ang_cha: 0.042991 
+ste:   0.109029, cha:   0.042991, dis:  -0.245748 -- In left corner! to out side
+ang:   0.012421, dis:  -0.012287, spd:  79.964005 
+
+ang_cha: 0.041292 
+ste:   0.075159, cha:   0.041292, dis:  -0.266933 -- In left corner! to in side
+ang:  -0.003934, dis:  -0.013347, spd:  76.453812 
+
+ang_cha: 0.039736 
+ste:   0.052465, cha:   0.039736, dis:  -0.211977 -- In left corner! to in side
+ang:  -0.020885, dis:  -0.010599, spd:  73.822731 
+
+ang_cha: 0.040181 
+ste:   0.057309, cha:   0.040181, dis:  -0.122230 -- In left corner! to in side
+ang:  -0.013533, dis:  -0.006111, spd:  71.465897 
+
+ang_cha: 0.042078 
+ste:   0.084610, cha:   0.042078, dis:  -0.081392 -- In left corner! to out side
+ang:   0.004642, dis:  -0.004070, spd:  74.888771 
+
+ang_cha: 0.043770 
+ste:   0.112385, cha:   0.043770, dis:  -0.121576 -- In left corner! to out side
+ang:   0.022003, dis:  -0.006079, spd:  78.199341 
+
+ang_cha: 0.047762 
+ste:   0.083736, cha:   0.047762, dis:  -0.205790 -- In left corner! to out side
+ang:   0.016148, dis:  -0.010289, spd:  80.101730 
+
+ang_cha: 0.041195 
+ste:   0.075749, cha:   0.041195, dis:  -0.242821 -- In left corner! to in side
+ang:  -0.002947, dis:  -0.012141, spd:  76.584824 
+
+ang_cha: 0.039700 
+ste:   0.065964, cha:   0.039700, dis:  -0.218487 -- In left corner! to in side
+ang:  -0.007045, dis:  -0.010924, spd:  73.636581 
+
+ang_cha: 0.040465 
+ste:   0.082229, cha:   0.040465, dis:  -0.187749 -- In left corner! to out side
+ang:   0.002000, dis:  -0.009387, spd:  72.347160 
+
+ang_cha: 0.042308 
+ste:   0.103595, cha:   0.042308, dis:  -0.200395 -- In left corner! to out side
+ang:   0.015094, dis:  -0.010020, spd:  75.416664 
+
+ang_cha: 0.042058 
+ste:   0.104625, cha:   0.042058, dis:  -0.258080 -- In left corner! to out side
+ang:   0.011343, dis:  -0.012904, spd:  77.846840 
+
+ang_cha: 0.040447 
+ste:   0.073884, cha:   0.040447, dis:  -0.276211 -- In left corner! to in side
+ang:  -0.002658, dis:  -0.013811, spd:  75.186287 
+
+ang_cha: 0.039020 
+ste:   0.054770, cha:   0.039020, dis:  -0.232678 -- In left corner! to in side
+ang:  -0.016312, dis:  -0.011634, spd:  72.068291 
+
+ang_cha: 0.039855 
+ste:   0.062453, cha:   0.039855, dis:  -0.166151 -- In left corner! to in side
+ang:  -0.007637, dis:  -0.008308, spd:  70.784744 
+
+ang_cha: 0.007091 
+ste:  -0.012619, cha:   0.007091, dis:  -0.107035 -- On straight! close, in side
+ang:  -0.024600, dis:  -0.005352, spd:  74.749184 
+
+ang_cha: 0.000000 
+ste:  -0.033594, cha:   0.000000, dis:   0.055030 -- On straight! close, out side
+ang:  -0.054156, dis:   0.002751, spd:  77.762001 
+
+ang_cha: 0.000000 
+ste:  -0.036184, cha:   0.000000, dis:   0.283811 -- On straight! close, out side
+ang:  -0.050847, dis:   0.014191, spd:  80.100838 
+
+ang_cha: 0.000000 
+ste:  -0.030863, cha:   0.000000, dis:   0.485108 -- On straight! close, out side
+ang:  -0.035268, dis:   0.024255, spd:  78.181290 
+
+ang_cha: 0.000000 
+ste:  -0.022682, cha:   0.000000, dis:   0.630193 -- On straight! close, out side
+ang:  -0.016797, dis:   0.031510, spd:  85.574158 
+
+ang_cha: 0.000000 
+ste:  -0.014027, cha:   0.000000, dis:   0.696656 -- On straight! close, out side
+ang:  -0.000157, dis:   0.034833, spd:  92.878868 
+
+ang_cha: 0.000000 
+ste:  -0.006406, cha:   0.000000, dis:   0.681779 -- On straight! close, in side
+ang:   0.012049, dis:   0.034089, spd:  99.890923 
+
+ang_cha: 0.000000 
+ste:   0.000083, cha:   0.000000, dis:   0.591897 -- On straight! close, in side
+ang:   0.019867, dis:   0.029595, spd: 101.843483 
+
+ang_cha: 0.000000 
+ste:   0.004903, cha:   0.000000, dis:   0.469173 -- On straight! close, in side
+ang:   0.023811, dis:   0.023459, spd: 104.164864 
+
+ang_cha: 0.000000 
+ste:   0.007885, cha:   0.000000, dis:   0.328866 -- On straight! close, in side
+ang:   0.024103, dis:   0.016443, spd: 105.928909 
+
+ang_cha: 0.000000 
+ste:   0.009051, cha:   0.000000, dis:   0.191485 -- On straight! close, in side
+ang:   0.021468, dis:   0.009574, spd: 107.542877 
+
+ang_cha: 0.000000 
+ste:   0.008842, cha:   0.000000, dis:   0.071201 -- On straight! close, in side
+ang:   0.017109, dis:   0.003560, spd: 108.871513 
+
+ang_cha: 0.000000 
+ste:   0.007599, cha:   0.000000, dis:  -0.022799 -- On straight! close, out side
+ang:   0.011906, dis:  -0.001140, spd: 110.981178 
+
+ang_cha: 0.000000 
+ste:   0.005514, cha:   0.000000, dis:  -0.086068 -- On straight! close, out side
+ang:   0.006320, dis:  -0.004303, spd: 112.613068 
+
+ang_cha: 0.000000 
+ste:   0.004502, cha:   0.000000, dis:  -0.120249 -- On straight! close, out side
+ang:   0.003494, dis:  -0.006012, spd: 113.645859 
+
+ang_cha: 0.000000 
+ste:   0.003883, cha:   0.000000, dis:  -0.137251 -- On straight! close, out side
+ang:   0.001896, dis:  -0.006863, spd: 110.587410 
+
+ang_cha: 0.000000 
+ste:   0.002476, cha:   0.000000, dis:  -0.143920 -- On straight! close, in side
+ang:  -0.000671, dis:  -0.007196, spd: 108.403938 
+
+ang_cha: 0.000000 
+ste:   0.000996, cha:   0.000000, dis:  -0.136688 -- On straight! close, in side
+ang:  -0.002896, dis:  -0.006834, spd: 110.324493 
+
+ang_cha: 0.000030 
+ste:   0.003503, cha:  -6.283179, dis:  -0.131451 -- Changes invalid!
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+ang_cha: 0.000000 
+ste:   0.000787, cha:   0.000000, dis:  -0.131451 -- On straight! close, in side
+ang:  -0.003070, dis:  -0.006573, spd: 112.347321 
+
+calculating score...
+normal exit

@@ -114,8 +114,8 @@ int main(int argc, char* argv[])
 	// create recv thread
 	pthread_t hThread;
 	int thread_id;
-	thread_id = pthread_create(&hThread, NULL, receive_CAN_thread, NULL);	
-	if(thread_id < 0) exit(3);  
+	thread_id = pthread_create(&hThread, NULL, receive_CAN_thread, NULL);
+	if(thread_id < 0) exit(3);
 #endif
 
 	char *task_name;
@@ -301,7 +301,7 @@ void init_CAN(int num_channel)
 		{
 			CAN_Close(hCAN1);
 			return;
-		}	
+		}
 	}
 	CAN_Status(hCAN1);
 
@@ -320,7 +320,7 @@ void init_CAN(int num_channel)
 		{
 			CAN_Close(hCAN2);
 			return;
-		}	
+		}
 	}
 }
 #endif
@@ -504,9 +504,9 @@ void try_send_data_via_can(FILE *fp)
             user_input[send_data->data_index2] = send_data->output_data2;
 #else
 		// The message is sent using the PCAN-USB
-		if (send_data->get_channel() == 1) 
+		if (send_data->get_channel() == 1)
 			errno = CAN_Write(hCAN1, &(send_data->msg));
-		else 
+		else
 			errno = CAN_Write(hCAN2, &(send_data->msg));
 		if(errno)
 		{
@@ -556,7 +556,7 @@ void try_write_for_line_plot()
 	passed_time += 100000;		// 100 ms
 
 		fprintf(acc, "%d.%06d %f\n", sec, usec, user_input[ACCEL]);
-		fprintf(str, "%d.%06d %f\n", sec, usec, user_input[STEER]);
+		fprintf(str, "time: %d.%06d steer: %10f, speed: %10f\n", sec, usec, user_input[STEER], car_output[SPEED]);
 		fprintf(spd, "%d.%06d %f\n", sec, usec, car_output[SPEED]);
 		fprintf(dis, "%d.%06d %f\n", sec, usec, car_output[DISTANCE]);
 		fprintf(lap_time, "%d.%06d %f\n", sec, usec, car_output[PASSED_TIME]);
@@ -591,7 +591,7 @@ void try_write_for_response_plot()
 /* This function adds Time_plot class for a Task class.
  * In this function, all Time_plot class is sorted in time order.
  * This function is used for measuring response times of tasks
- * 
+ *
  * <argument>
  * task: target job
  * plot: list for Time_plot class
@@ -711,7 +711,7 @@ void calculate_score()
 	sprintf(file_name, "%slap_time.txt", LOCATION);
 	lap_time = fopen(file_name, "r");
 //	printf("file_open\n");
-   
+
     // find race start point
     while(1)
     {
@@ -769,6 +769,7 @@ void calculate_score()
 	sprintf(file_name, "%sscore.txt", LOCATION);
 	FILE *score_file = fopen(file_name, "w");
 	fprintf(score_file, "# of ECUs: %d, lap time: %f sec, average distance: %f m\n",num_resources, final_lap_time, avg_distance);
+	fprintf(score_file, "res: %f, time: %f, dis: %f \n", score_by_resources, score_by_lap_time, score_by_avg_distance);
 	fprintf(score_file, "score: %f\n", score);
 	fclose(score_file);
 	fclose(dis);

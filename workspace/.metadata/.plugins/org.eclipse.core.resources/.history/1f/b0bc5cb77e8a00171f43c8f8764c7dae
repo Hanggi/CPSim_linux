@@ -1,0 +1,107 @@
+var:1
+float steering;
+
+input:0
+
+output:0
+
+CAN_input:0
+
+CAN_output:1
+10:0x7FE:1
+steering STEER
+
+code:
+{
+	// sensor data
+	float track_width = internal_data[0];
+	float distance = internal_data[1];
+	float track_angle = internal_data[2];
+	float yaw = internal_data[3];
+	float last_track_angle = internal_data[4];
+	float last_speed = internal_data[5];
+
+	// get difference of angle
+	float angle = track_angle - yaw;
+	float pi = 3.141592;
+	while(angle > pi)
+	    angle -= 2*pi;
+	while(angle < -pi)
+	    angle += 2*pi;
+
+	// calculate steering value
+	float SC = 1.0;
+//	if(track_width == 0.0)	// for default value
+//		steering = 0.0;
+//	else
+//		steering = angle - SC*distance/track_width;
+
+
+//	if (distance < 0.7 && distance > -0.7) {
+//		steering = 1.0 * angle - 0.3*distance/track_width;
+//	} else {
+//		steering = 1.7*angle - 2.6*distance/track_width;
+//	}
+	steering = 0.00001;
+	char str[128] = "Init start";
+
+	float changes = track_angle - last_track_angle;
+
+	if (track_angle - last_track_angle > 0.99 || track_angle - last_track_angle < -0.99) {
+		steering = angle - SC*distance/track_width;
+		strcpy(str, "Changes invalid!");
+	} else {
+//		steering = track_angle - last_track_angle;
+		if (changes < 0.01 && changes > -0.01) {
+			if (distance < 1 && distance > -1) {
+				steering = 0.6 * angle - 0.5*distance/track_width;
+//				steering = steering * last_speed/300;
+				strcpy(str, "On straight! close");
+			} else {
+//				steering = 1.7*angle - 2.3*distance/track_width;
+				steering = 1*angle - 0.9*distance/track_width;
+//				steering = steering * last_speed/200;
+				strcpy(str, "On straight! faraway");
+			}
+		} else {
+//			if (changes > 0) {
+//				if ((distance < 0 && angle > 0)) {
+//					steering = angle + changes*1.7 - 1.5*distance/track_width;
+//				} else {
+//					steering = angle + changes*1.7 - 0.9*distance/track_width;
+//				}
+//			} else {
+//				if ((distance > 0 && angle < 0)) {
+//					steering = angle + changes*1.7 - 1.5*distance/track_width;
+//				} else {
+//					steering = angle + changes*1.7 - 0.9*distance/track_width;
+//				}
+//			}
+			if (((distance < 0 && angle > 0) && changes > 0) || ((distance > 0 && angle < 0) && changes < 0)) {
+				steering = 1.2*angle + changes*1.7 - 1.5*distance/track_width;
+//					steering = angle + changes*1.7 - 1*distance/track_width;
+//					strcpy(str, "In right corner! to out side!");
+				if (change > 0) {
+					strcpy(str, "In left corner! to out side");
+				} else {
+					strcpy(str, "In right corner! to out side");
+				}
+			} else {
+				steering = angle + changes*1.7 - 0.9*distance/track_width;
+				if (change > 0) {
+					strcpy(str, "In left corner! to in side");
+				} else {
+					strcpy(str, "In right corner! to in side");
+				}
+			}
+
+//			steering = steering * 0.005 * last_speed;
+
+		}
+	}
+
+	printf("ste: %10f, cha: %10f, dis: %10f -- %s\n",steering, changes, distance, str);
+	printf("ang: %10f, dis: %10f, spd: %10f \n\n", angle, distance/track_width, last_speed);
+	//		steering = (angle + changes) * last_speed/20;
+
+}

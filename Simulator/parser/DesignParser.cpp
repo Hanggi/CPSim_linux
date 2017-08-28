@@ -106,7 +106,7 @@ void DesignParser::parseSWCs(xmlDocPtr doc, xmlNodePtr cur) {
 				lcur = lcur->next;
 			}
 			bool isVirtual = false;
-			
+
 			getCharProp(cur, "ID", id);
 			getCharProp(cur, "deadline", deadline);	// dealine
 			getCharProp(cur, "period", period);     // period
@@ -116,7 +116,7 @@ void DesignParser::parseSWCs(xmlDocPtr doc, xmlNodePtr cur) {
 			getCharProp(cur, "sendto", sendto);     // sendto
 			strcpy(task_id[swcidx], id);
 			strcpy(send_to[swcidx], sendto);
-			
+
 			if(strncmp(v, "1", 1) == 0) isVirtual = true;
 			if(isVirtual) {
 				int ecuidx = getEcuIdx(ecuid);
@@ -146,7 +146,7 @@ void DesignParser::parseSWCs(xmlDocPtr doc, xmlNodePtr cur) {
             {
                 if(strcmp(task_id[j], tok) == 0)
                 {
-				    fprintf(fp, "t%d->successors.push_back(t%d);\nt%d->predecessors.push_back(t%d);\n", 
+				    fprintf(fp, "t%d->successors.push_back(t%d);\nt%d->predecessors.push_back(t%d);\n",
 						i, j, j, i);
                     break;
                 }
@@ -161,20 +161,23 @@ void DesignParser::generateTaskCode()
     char file_name[100];
     sprintf(file_name, "%scan_read.hh", LOCATION);
 	FILE *ofp_can_read_h = fopen(file_name, "w");		// for can_read.hh
-    
+
     sprintf(file_name, "%stask_created.hh", LOCATION);
     FILE *ofp_task_created_h = fopen(file_name, "w");
 	fprintf(ofp_task_created_h, "#ifndef __TASKCLASSH_\n#define __TASKCLASSH_\n\n");
 	fprintf(ofp_task_created_h, "#include \"components.h\"\n\n");
 	fprintf(ofp_task_created_h, "// for data from car\n#ifdef NOCANMODE\nextern float *car_output;\n#else\nextern float car_output[10];\n#endif\n");
 	fprintf(ofp_task_created_h, "extern float memory_buffer[10];\n\n");
-    
+
     sprintf(file_name, "%stask_created.cpp", LOCATION);
     FILE *ofp_task_created_c = fopen(file_name, "w");
 	fprintf(ofp_task_created_c, "#include \"task_created.hh\"\n");
 	fprintf(ofp_task_created_c, "#include \"can_api.h\"\n#include \"data_list.hh\"\n\n");
 	fprintf(ofp_task_created_c, "extern list<CAN_Msg *> waiting_data;\n\n");
-	
+	fprintf(ofp_task_created_c, "float last_truck_angle = -1.0;\n\n");
+	fprintf(ofp_task_created_c, "float last_speed = 0;\n\n");
+	fprintf(ofp_task_created_c, "float angle_changes = 0;\n\n");
+
     sprintf(file_name, "%stask_instanciation.hh", LOCATION);
 	FILE *ofp_task_instanciation_h = fopen(file_name, "w");
 
@@ -235,8 +238,26 @@ void DesignParser::generateTaskCode()
 				strcpy(output_var[i], line_temp);
 				fprintf(ofp_task_created_c, "\t\tsuccessors[i]->%s = %s;\n", output_var[i], output_var[i]);
 			}
+			// hanggi
+			if (t_id == 3) {
+					// LK3.h
+					fprintf(ofp_task_created_c, "// hanggi test: %s \n", task_id[3]);
+					fprintf(ofp_task_created_c, "\t\tsuccessors[i]->internal_data[4] = last_truck_angle;\n");
+					fprintf(ofp_task_created_c, "\t\tsuccessors[i]->internal_data[5] = last_speed;\n");
+					fprintf(ofp_task_created_c, "\t\tangle_changes = internal_data[2] - last_truck_angle ;\n");
+					fprintf(ofp_task_created_c, "\t\tlast_truck_angle = %s;\n", output_var[0]);
+					// fprintf(ofp_task_created_c, "\t\tprintf(\"track_angle: %%f\", internal_data[2]);\n");
+			}
+
+
+			if (t_id == 0) {
+				//
+				fprintf(ofp_task_created_c, "// hanggi test: %s \n", task_id[0]);
+				fprintf(ofp_task_created_c, "successors[i]->internal_data[1] = angle_changes;");
+				fprintf(ofp_task_created_c, "\t\tlast_speed = %s;\n", output_var[0]);
+			}
 			fprintf(ofp_task_created_c, "\t}\n");
-			
+
 		}
 
         while(strstr(line_temp, "CAN_input:") == NULL)
@@ -326,10 +347,12 @@ void DesignParser::generateTaskCode()
 				}
 				fprintf(ofp_task_created_c, "\tCAN_Msg *can_msg = new CAN_Msg(completion_time, 1, %s, %d, %s, %s, %s, %s, this->task_link->get_task_name());\n", can_id, num_var_local, var1_index, var2_index, var1, var2);
 				fprintf(ofp_task_created_c, "\tinsert_can_msg(&waiting_data, can_msg);\n");
+
+				fprintf(ofp_task_created_c, "// hanggi test: %s \n", task_id[0]);
 			}
 //			fprintf(ofp_task_created_c, "\t}\n");	// end if
 		}
-	
+
 	    fprintf(ofp_task_created_c, "}\n\n");
 		while(strstr(line_temp, "code:") == NULL)
 			fgets(line_temp, 1000, ifp);
@@ -341,7 +364,7 @@ void DesignParser::generateTaskCode()
 			fprintf(ofp_task_created_c, "%s", line_temp);
 		}
 		fprintf(ofp_task_created_c, "\n\n");
-		
+
 		// for task_instanciation.hh
 		fprintf(ofp_task_instanciation_h, "case %d:\n", t_id);
 		fprintf(ofp_task_instanciation_h, "\tjob = new Task%d(e->task_info_link);\n", t_id);

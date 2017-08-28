@@ -1,0 +1,24 @@
+var:4
+float track_width;
+float distance;
+float angle;
+float steering;
+
+input:3
+track_width
+distance
+angle
+
+output:0
+
+CAN_input:0
+
+CAN_output:1
+10:0x7FE:1
+steering STEER
+
+code:
+{
+	float SC = 1.0;
+	steering = angle - SC*distance/track_width;	// Road Keeping Assist System
+}

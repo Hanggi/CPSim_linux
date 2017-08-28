@@ -56,7 +56,7 @@ code:
 				tmp = int(steering * 1000000);
 				tmp = tmp % 1000;
 				tail = float(tmp) / 1000000;
-				steering = steering > 0 ? steering - tail + 0.000050 : steering - tail - 0.000055;
+				// steering = steering > 0 ? steering - tail + 0.000050 : steering - tail - 0.000055;
 			} else {
 				/* far away center */
 				steering = 1.7 * angle - 2.6*distance/track_width;
@@ -64,7 +64,7 @@ code:
 				tmp = int(steering * 1000000);
 				tmp = tmp % 1000;
 				tail = float(tmp) / 1000000;
-				steering = steering > 0 ? steering - tail + 0.000010 : steering - tail - 0.000015;
+				// steering = steering > 0 ? steering - tail + 0.000010 : steering - tail - 0.000015;
 			}
 		} else {
 			float d_offset = 0.39;
@@ -87,7 +87,7 @@ code:
 			tmp = int(steering * 1000000);
 			tmp = tmp % 1000;
 			tail = float(tmp) / 1000000;
-			steering = steering > 0 ? steering - tail + 0.000020 : steering - tail - 0.000025;
+			// steering = steering > 0 ? steering - tail + 0.000020 : steering - tail - 0.000025;
 		}
 
 //		steering = 3.23232323;
