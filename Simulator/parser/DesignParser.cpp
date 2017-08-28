@@ -251,7 +251,7 @@ void DesignParser::generateTaskCode()
 
 
 			if (t_id == 0) {
-				//
+				// CC1.h
 				fprintf(ofp_task_created_c, "// hanggi test: %s \n", task_id[0]);
 				fprintf(ofp_task_created_c, "successors[i]->internal_data[1] = angle_changes;");
 				fprintf(ofp_task_created_c, "\t\tlast_speed = %s;\n", output_var[0]);
